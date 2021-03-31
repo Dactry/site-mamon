@@ -1,0 +1,46 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.body {
+    font-family: 'montserrat' sans-serif;
+}
+
+.header__container {
+    padding-top: 50px;
+}
+
+.nav__link {
+    color: #202020;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+.nav__link:hover {
+    text-decoration: underline;
+    color: #202020;
+}
+
+.hero__button {
+    background-color: #5528FF;
+    ;
+    padding: 13px 50px;
+    font-size: 24px;
+}
+
+.hero__title {
+    font-size: 52px;
+    line-height: 68px;
+    font-weight: 700;
+    color: #202020;
+}
+
+.hero__text {
+    font-size: 26px;
+    line-height: 52px;
+    font-weight: 700;
+    color: #4F4F4F;
+}
